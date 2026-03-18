@@ -229,7 +229,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.03] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [**IL**] [[paper](https://arxiv.org/abs/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] [[code](https://github.com/behavior-robot-suite/brs-algo)]
 
-- [2025.03] Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions [[paper](https://arxiv.org/abs/2503.12725)] [[project](https://surgie-humanoid.github.io/)]
+- [2025.03] Humanoids in Hospitals: A Technical Study of Humanoid Robot Surrogates for Dexterous Medical Interventions [[paper](https://arxiv.org/abs/2503.12725)] [[project](https://surgie-humanoid.github.io/)]
 
 - [2025.03] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/abs/2503.13441)] [[project](https://human-as-robot.github.io/)]
 
@@ -265,7 +265,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.10] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [**IL**] [[project](https://ut-austin-rpl.github.io/OKAMI/)] [[paper](http://arxiv.org/abs/2410.11792)]
 
-- [2024.10] Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies [**IL**] [**diffusion**] [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
+- [2024.10] Generalizable Humanoid Manipulation with 3D Diffusion Policies [**IL**] [**diffusion**] [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
 
 - [2024.08] RP1M: A Large-Scale Motion Dataset for Piano Playing with Bi-Manual Dexterous Robot Hands [**Dataset**] [[project](https://rp1m.github.io/)] [[paper](https://arxiv.org/abs/2408.11048)] [[code](https://github.com/google-research/robopianist)]
 
@@ -277,7 +277,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.06] HumanPlus: Humanoid Shadowing and Imitation from Humans [**IL**] [[project](https://humanoid-ai.github.io/)] [[paper](https://arxiv.org/abs/2406.10454)] [[code](https://github.com/MarkFzp/humanplus)]
 
-- [2024.06] Learning Hybrid Behavior Planning for Autonomous Loco-manipulation [**VLM**] [[project](https://hy-motion.github.io/)] [[paper](https://arxiv.org/abs/2406.14655v1)]
+- [2024.06] HYPERmotion: Learning Hybrid Behavior Planning for Autonomous Loco-manipulation [**VLM**] [[project](https://hy-motion.github.io/)] [[paper](https://arxiv.org/abs/2406.14655)]
 
 - [2024.06] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [**benchmark**] [[project](https://omni.human2humanoid.com/)] [[paper](https://arxiv.org/abs/2406.08858)] [[code](https://github.com/LeCAR-Lab/human2humanoid)]
 
@@ -350,11 +350,11 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.03] Learning Adaptive Dexterous Grasping from Single Demonstrations [**RL**] [**VLM**] [[paper](https://arxiv.org/abs/2503.20208)] [[project](https://zenglingqi647.github.io/AdaDexGrasp/)]
 
-- [2025.03] Dexterous Hand Manipulation via Efficient Imitation-Bootstrapped Online Reinforcement Learning [**RL**] [**IL**] [[paper](https://arxiv.org/abs/2503.04014)]
+- [2025.03] Dexterous Grasping with Real-World Robotic Reinforcement Learning [**RL**] [[paper](https://arxiv.org/abs/2503.04014)]
 
 - [2025.03] Learning Dexterous In-Hand Manipulation with Multifingered Hands via Visuomotor Diffusion [**diffusion**] [**IL**] [[paper](https://arxiv.org/abs/2503.02587)]
 
-- [2025.03] GenForce: Training Tactile Sensors to Learn Force Sensing from Each Other [**touch**] [[paper](https://arxiv.org/abs/2503.01058)]
+- [2025.03] Training Tactile Sensors to Learn Force Sensing from Each Other [**touch**] [[paper](https://arxiv.org/abs/2503.01058)]
 
 - [2025.02] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping [**VLA**] [**grasping**] [[paper](https://arxiv.org/abs/2502.20900)] [[project](https://dexgraspvla.github.io/)] [[code](https://github.com/Psi-Robot/DexGraspVLA)]
 
@@ -409,9 +409,9 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.11] Bimanual Dexterity for Complex Tasks [**IL**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
 
-- [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills From Human [**IL**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
+- [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations [**IL**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
 
-- [2024.07] Bunny-Vision Pro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning [**IL**] [[project](https://dingry.github.io/projects/bunny_visionpro)] [[paper](https://arxiv.org/abs/2407.03162)] [[code](https://github.com/Dingry/BunnyVisionPro)]
+- [2024.07] Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning [**IL**] [[project](https://dingry.github.io/projects/bunny_visionpro)] [[paper](https://arxiv.org/abs/2407.03162)] [[code](https://github.com/Dingry/BunnyVisionPro)]
 
 - [2024.04] Learning Visuotactile Skills with Two Multifingered Hands [**IL**] [**touch**] [[project](https://toruowo.github.io/hato/)] [[paper](http://arxiv.org/abs/2404.16823)] [[code](https://github.com/toruowo/hato)]
 
@@ -440,7 +440,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.02] DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove [**teleop**] [[paper](https://arxiv.org/abs/2502.07730)]
 
-- [2024.08] ACE: A Cross-platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation [**teleop**] [[project](https://ace-teleop.github.io/)] [[paper](https://arxiv.org/abs/2408.11805)] [[code](https://github.com/ACETeleop/ACETeleop)]
+- [2024.08] ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation [**teleop**] [[project](https://ace-teleop.github.io/)] [[paper](https://arxiv.org/abs/2408.11805)] [[code](https://github.com/ACETeleop/ACETeleop)]
 
 
 <a name="DualArmManipulationwithOtherEndEffectors" />
@@ -461,7 +461,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.12] AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation [**RL**] [[paper](https://arxiv.org/abs/2412.06779)] [[project](https://manicm-fast.github.io/)] [[code](https://github.com/TengBoYuu/AnyBimanual)]
 
-- [2024.11] AsymDex: Leveraging Asymmetry and Relative Motion in Learning Bimanual Dexterity [**RL**] [[paper](https://arxiv.org/abs/2411.13020)] [[project](https://sites.google.com/view/asymdex-2024/)]
+- [2024.11] AsymDex: Asymmetry and Relative Coordinates for RL-based Bimanual Dexterity [**RL**] [[paper](https://arxiv.org/abs/2411.13020)] [[project](https://sites.google.com/view/asymdex-2024/)]
 
 - [2024.10] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [**IL**] [**foundation**] [[github](https://github.com/thu-ml/RoboticsDiffusionTransformer)] [[paper](https://arxiv.org/abs/2410.07864)] [[project](https://rdt-robotics.github.io/rdt-robotics/)]
 
@@ -490,7 +490,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.10] Autonomous Character-Scene Interaction Synthesis from Text Instruction [**mocap**] [[project](https://lingomotions.com/)] [[paper](https://arxiv.org/abs/2410.03187)]
 
-- [2024.07] Grasping Diverse Objects with Simulated Humanoids [**RL**] [[project](https://www.zhengyiluo.com/Omnigrasp-Site/)] [[paper](https://arxiv.org/abs/2407.11385)]
+- [2024.07] Omnigrasp: Grasping Diverse Objects with Simulated Humanoids [**RL**] [[project](https://www.zhengyiluo.com/Omnigrasp-Site/)] [[paper](https://arxiv.org/abs/2407.11385)]
 
 - [2024.06] Human-Object Interaction from Human-Level Instructions [**LLM**] [[project](https://hoifhli.github.io/)] [[paper](https://arxiv.org/abs/2406.17840)]
 
