@@ -211,6 +211,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2026.03] HumDex: Humanoid Dexterous Manipulation Made Easy [**teleop**] [[paper](https://arxiv.org/abs/2603.12260)]
 
+- [2026.03] Omni-Manip: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception [**3D perception**] [[paper](https://arxiv.org/abs/2603.05355)]
+
 - [2025.11] VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2511.15200)]
 
 - [2025.09] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation [**IL**] [[paper](https://arxiv.org/abs/2509.20322)] [[project](https://visualmimic.github.io/)] [[code](https://github.com/visualmimic/VisualMimic)]
@@ -237,7 +239,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.03] KINESIS: Motion Imitation for Human Musculoskeletal Locomotion [**RL**] [[paper](https://arxiv.org/abs/2503.14637)] [[code](https://github.com/amathislab/Kinesis)]
 
-- [2025.02] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2502.20396)]
+- [2025.02] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2502.20396)] [[openreview](https://openreview.net/forum?id=8DHSyMFLbB)]
 
 - [2025.02] InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [**RL**] [[paper](https://arxiv.org/abs/2502.20390)]
 
@@ -263,7 +265,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.10] DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning [**IL**] [[project](https://dexmimicgen.github.io/#)] [[paper](https://arxiv.org/abs/2410.24185)]
 
-- [2024.10] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [**IL**] [[project](https://ut-austin-rpl.github.io/OKAMI/)] [[paper](http://arxiv.org/abs/2410.11792)]
+- [2024.10] OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation [**IL**] [[project](https://ut-austin-rpl.github.io/OKAMI/)] [[paper](https://arxiv.org/abs/2410.11792)] [[openreview](https://openreview.net/forum?id=URj5TQTAXM)]
 
 - [2024.10] Generalizable Humanoid Manipulation with 3D Diffusion Policies [**IL**] [**diffusion**] [[project](https://humanoid-manipulation.github.io/)] [[paper](https://arxiv.org/abs/2410.10803)] [[code](https://github.com/YanjieZe/Improved-3D-Diffusion-Policy)]
 
@@ -310,6 +312,10 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.10] DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation [**Dataset**] [[paper](https://arxiv.org/abs/2510.15786)] [[code](https://github.com/dexrobot/dexcanvas)]
 
+- [2025.09] DexFlyWheel: A Scalable and Self-improving Data Generation Framework for Dexterous Manipulation [**Dataset**] [[paper](https://arxiv.org/abs/2509.23829)] [[openreview](https://openreview.net/forum?id=a49F7EAm6l)]
+
+- [2025.09] OpenEgo: A Large-Scale Multimodal Egocentric Dataset for Dexterous Manipulation [**Dataset**] [[paper](https://arxiv.org/abs/2509.05513)]
+
 - [2025.09] Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration [**RL**] [[paper](https://arxiv.org/abs/2509.09671)]
 
 - [2025.09] The Role of Touch: Towards Optimal Tactile Sensing Distribution in Anthropomorphic Hands for Dexterous In-Hand Manipulation [**touch**] [**RL**] [[paper](https://arxiv.org/abs/2509.14984)]
@@ -321,6 +327,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 - [2025.08] DexReMoE: In-hand Reorientation of General Object via Mixtures of Experts [**RL**] [[paper](https://arxiv.org/abs/2508.01695)]
 
 - [2025.07] DexVLG: Dexterous Vision-Language-Grasp Model at Scale [**VLM**] [**grasping**] [[paper](https://arxiv.org/abs/2507.02747)] [[project](https://jiaweihe.com/dexvlg)] [[code](https://github.com/jiaweihe1996/DexVLG)]
+
+- [2025.06] mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity [**diffusion**] [[paper](https://arxiv.org/abs/2506.11916)] [[openreview](https://openreview.net/forum?id=u3jtcyKl1j&noteId=xTOxv3qOho)]
 
 - [2025.06] Scaffolding Dexterous Manipulation with Vision-Language Models [**VLM**] [**RL**] [[paper](https://arxiv.org/abs/2506.19212)]
 
@@ -399,7 +407,11 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2026.01] DemoBot: Efficient Learning of Bimanual Manipulation with Dexterous Hands From Third-Person Human Videos [**RL**] [**IL**] [[paper](https://arxiv.org/abs/2601.01651)]
 
-- [2025.10] DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos [**IL**] [[paper](https://arxiv.org/abs/2510.08475)]
+- [2025.10] DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos [**IL**] [[paper](https://arxiv.org/abs/2510.08475)] [[openreview](https://openreview.net/forum?id=93LGsNwfMW)]
+
+- [2025.08] HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2508.20085)] [[openreview](https://openreview.net/forum?id=egrRfsoyW9)]
+
+- [2025.07] HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning [**Dataset**] [**LLM**] [[paper](https://arxiv.org/abs/2507.00833)] [[project](https://openhumanoidgen.github.io/)] [[openreview](https://openreview.net/forum?id=Mk9ykil8eP)]
 
 - [2025.05] DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation [**RL**] [[paper](https://arxiv.org/abs/2505.24853)]
 
@@ -409,7 +421,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2024.11] Bimanual Dexterity for Complex Tasks [**IL**] [[project](https://bidex-teleop.github.io/)] [[paper](https://openreview.net/pdf?id=55tYfHvanf)]
 
-- [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations [**IL**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)]
+- [2024.10] Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations [**IL**] [[project](https://sites.google.com/view/bidexhd)] [[paper](https://arxiv.org/abs/2410.02477)] [[openreview](https://openreview.net/forum?id=8yEoTBceap)]
 
 - [2024.07] Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning [**IL**] [[project](https://dingry.github.io/projects/bunny_visionpro)] [[paper](https://arxiv.org/abs/2407.03162)] [[code](https://github.com/Dingry/BunnyVisionPro)]
 
