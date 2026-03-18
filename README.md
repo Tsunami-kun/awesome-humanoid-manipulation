@@ -61,6 +61,8 @@ _Scope_: This list covers the following topics:
 | Digit | Agility Robotics | [URDF](https://github.com/adubredu/DigitRobot.jl/tree/main/urdf) | ✖️ | ✔️ | ✔️ | ✔️ |
 | Magicbot Z1 | Magiclab | [URDF](https://github.com/MagiclabRobotics/magicbot-z1_description) | ✖️ | ✔️ | ✔️ | ✔️ |
 | Deep Robotics | Deep Robotics | [URDF](https://github.com/DeepRoboticsLab/URDF_model) | ✖️ | ✔️ | ✔️ | ✔️ |
+| Berkeley Humanoid Lite | UC Berkeley | [URDF, MJCF, USD](https://github.com/HybridRobotics/Berkeley-Humanoid-Lite) | Open Source | ✔️ | ✔️ | ✔️ |
+| Berkeley Humanoid | UC Berkeley | [URDF](https://github.com/HybridRobotics/berkeley_humanoid_description) | Open Source | ✔️ | ✔️ | ✔️ |
 
 Also see: [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie) for high-quality MJCF models, [awesome-robot-descriptions](https://github.com/robot-descriptions/awesome-robot-descriptions) for a comprehensive list.
 
@@ -77,6 +79,7 @@ Also see: [MuJoCo Menagerie](https://github.com/google-deepmind/mujoco_menagerie
 | Inspire Hand | Inspire-Robots | [URDF](https://github.com/dexsuite/dex-urdf) | ✖️ | ✔️ | ✔️ | ✔️ |
 | ORCA Hand | ORCA Robotics | [URDF & MJCF](https://github.com/orcahand/orcahand_description) | ✖️ | ✔️ | ✔️ | ✔️ |
 | Wuji Hand | Wuji Technology | [URDF & MJCF](https://github.com/wuji-technology/wuji-hand-description) | ✖️ | ✔️ | ✔️ | ✔️ |
+| Faive Hand | ETH Zurich (SRL) | [MJCF](https://github.com/srl-ethz) | Open Source | ✔️ | ✔️ | ✔️ |
 | SVH Hand | SCHUNK | [URDF](https://github.com/dexsuite/dex-urdf) | ✖️ | ✔️ | ✔️ | ✔️ |
 
 Also see: [dex-urdf](https://github.com/dexsuite/dex-urdf) for a collection of dexterous hand URDFs.
@@ -106,17 +109,30 @@ Also see: [dex-urdf](https://github.com/dexsuite/dex-urdf) for a collection of d
 | GRUtopia | General robots in a city at scale | [[github](https://github.com/OpenRobotLab/GRUtopia)] [[paper](https://arxiv.org/abs/2407.10943)] |
 | Humanoid-Gym | RL for humanoid robot with zero-shot sim2real transfer | [[github](https://github.com/roboterax/humanoid-gym)] [[paper](https://arxiv.org/abs/2404.05695)] |
 | DexterousHands | Bi-level multi-agent RL for dexterous manipulation | [[github](https://github.com/PKU-MARL/DexterousHands)] |
+| MuJoCo Playground | Google DeepMind sim-to-real platform for humanoids, hands, quadrupeds | [[website](https://playground.mujoco.org/)] |
+| RoboCasa | Large-scale household task simulation with 120+ kitchen scenes | [[website](https://robocasa.ai/)] |
+| DexGraspNet 2.0 | Dexterous grasping in cluttered scenes | [[github](https://github.com/PKU-EPIC/DexGraspNet2)] |
 
 
 <a name="Workshops" />
 
 ## Workshops
 
+CVPR 2025 [[Humanoid Agents Workshop](https://humanoid-agents.github.io/)]
+
 RSS 2025 [[3rd Workshop on Dexterous Manipulation: Learning and Control with Diverse Data](https://dex-manipulation.github.io/rss2025/)]
+
+CoRL 2025 [[2nd Workshop on Dexterous Manipulation: Learning and Control with Diverse Modalities](https://dex-manipulation.github.io/corl2025/)]
+
+CoRL 2025 [[Workshop on Generalizable Priors for Robot Manipulation](https://corl25-genpriors.github.io/)]
 
 Humanoids 2025 [[Dexterous Humanoid Manipulation Workshop](https://dexterous-humanoid-manipulation.github.io/)]
 
-CORL 2024 [[Workshop on Whole-body Control and Bimanual Manipulation: Applications in Humanoids and Beyond](https://wcbm-workshop.github.io/)]
+ICLR 2025 [[7th Robot Learning Workshop: Towards Robots with Human-Level Abilities](https://www.robot-learning.ml/2025/)]
+
+CoRL 2024 [[Workshop on Whole-body Control and Bimanual Manipulation: Applications in Humanoids and Beyond](https://wcbm-workshop.github.io/)]
+
+CoRL 2024 [[Learning Robot Fine and Dexterous Manipulation: Perception and Control](https://dex-manipulation.github.io/corl2024/)]
 
 RSS 2024 [[2nd Workshop on Dexterous Manipulation: Design, Perception and Control](https://dex-manipulation.github.io/rss2024/)]
 
@@ -133,6 +149,14 @@ LEAP Hand [[A Low-Cost Dexterous Hand for Robot Learning](https://leaphand.com/)
 DOGlove [[Low-Cost Haptic Force Feedback Glove](https://arxiv.org/abs/2502.07730)]
 
 ACE Teleop [[Cross-Platform Visual-Exoskeletons for Low-Cost Dexterous Teleoperation](https://ace-teleop.github.io/)] [[github](https://github.com/ACETeleop/ACETeleop)]
+
+GR00T N1 [[Open Foundation Model for Generalist Humanoid Robots](https://arxiv.org/abs/2503.14734)] [[github](https://github.com/NVIDIA/Isaac-GR00T)]
+
+BEHAVIOR Robot Suite [[Streamlining Real-World Whole-Body Manipulation](https://behavior-robot-suite.github.io/)] [[github](https://github.com/behavior-robot-suite/brs-algo)]
+
+MuJoCo Playground [[Sim-to-Real Platform for Diverse Robots](https://playground.mujoco.org/)]
+
+HOMIE [[Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://homietele.github.io/)] [[github](https://github.com/OpenRobotLab/OpenHomie)]
 
 <a name="Packages" />
 
@@ -189,6 +213,8 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.11] VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2511.15200)]
 
+- [2025.10] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation [**IL**] [[code](https://github.com/visualmimic/VisualMimic)]
+
 - [2025.10] DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation [**IL**] [[paper](https://arxiv.org/abs/2510.11258)]
 
 - [2025.09] DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion [**diffusion**] [[paper](https://arxiv.org/abs/2509.14353)]
@@ -199,17 +225,33 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.05] MaskedManipulator: Versatile Whole-Body Manipulation [**RL**] [[paper](https://arxiv.org/abs/2505.19086)]
 
+- [2025.03] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [**VLA**] [**diffusion**] [[paper](https://arxiv.org/abs/2503.14734)] [[code](https://github.com/NVIDIA/Isaac-GR00T)]
+
+- [2025.03] BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities [**IL**] [[paper](https://arxiv.org/abs/2503.05652)] [[project](https://behavior-robot-suite.github.io/)] [[code](https://github.com/behavior-robot-suite/brs-algo)]
+
 - [2025.03] Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions [[paper](https://arxiv.org/abs/2503.12725)] [[project](https://surgie-humanoid.github.io/)]
 
 - [2025.03] Humanoid Policy ~ Human Policy [[paper](https://arxiv.org/abs/2503.13441)] [[project](https://human-as-robot.github.io/)]
 
 - [2025.03] FLAM: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation [[paper](https://arxiv.org/abs/2503.22249)] [[project](https://xianqi-zhang.github.io/FLAM/)]
 
+- [2025.03] KINESIS: Motion Imitation for Human Musculoskeletal Locomotion [**RL**] [[paper](https://arxiv.org/abs/2503.14637)] [[code](https://github.com/amathislab/Kinesis)]
+
 - [2025.02] Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2502.20396)]
 
 - [2025.02] InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [**RL**] [[paper](https://arxiv.org/abs/2502.20390)]
 
+- [2025.02] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [**teleop**] [[paper](https://arxiv.org/abs/2502.13013)] [[project](https://homietele.github.io/)] [[code](https://github.com/OpenRobotLab/OpenHomie)]
+
+- [2025.02] HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion [**RL**] [[paper](https://arxiv.org/abs/2502.03206)] [[project](https://hugwbc.github.io/)]
+
+- [2025.02] DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [**IL**] [[paper](https://arxiv.org/abs/2502.16932)] [[project](https://demo-generation.github.io/)] [[code](https://github.com/TEA-Lab/DemoGen)]
+
 - [2025.02] Dexterous Safe Control for Humanoids in Cluttered Environments via Projected Safe Set Algorithm [**Control**] [[project](https://toruowo.github.io/recipe/)] [[paper](https://arxiv.org/abs/2502.02858)]
+
+- [2025.01] RoboPanoptes: The All-seeing Robot with Whole-body Dexterity [**IL**] [[paper](https://arxiv.org/abs/2501.05420)] [[code](https://github.com/real-stanford/RoboPanoptes)]
+
+- [2025.01] Motion Tracks: A Unified Representation for Human-Robot Transfer in Few-Shot Imitation Learning [**IL**] [[paper](https://arxiv.org/abs/2501.06994)] [[project](https://portal-cornell.github.io/motion_track_policy/)]
 
 - [2024.12] Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking [**Benchmark**]  [[project](https://mimicking-bench.github.io/)] [[paper](https://arxiv.org/abs/2412.17730)]
 
@@ -272,13 +314,27 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.04] Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning [**RL**] [[paper](https://arxiv.org/abs/2504.21585)]
 
-- [2025.03] DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness [**diffusion**] [[paper](https://arxiv.org/abs/2503.08257)]
+- [2025.03] DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness [**diffusion**] [[paper](https://arxiv.org/abs/2503.08257)] [[project](https://dexgraspanything.github.io/)] [[code](https://github.com/4DVLab/DexGrasp-Anything)]
+
+- [2025.03] GAGrasp: Geometric Algebra Diffusion for Dexterous Grasping [**diffusion**] [[paper](https://arxiv.org/abs/2503.04123)] [[project](https://gagrasp.github.io/)]
+
+- [2025.03] Learning Adaptive Dexterous Grasping from Single Demonstrations [**RL**] [**VLM**] [[paper](https://arxiv.org/abs/2503.20208)] [[project](https://zenglingqi647.github.io/AdaDexGrasp/)]
 
 - [2025.03] Dexterous Hand Manipulation via Efficient Imitation-Bootstrapped Online Reinforcement Learning [**RL**] [**IL**] [[paper](https://arxiv.org/abs/2503.04014)]
 
+- [2025.03] Learning Dexterous In-Hand Manipulation with Multifingered Hands via Visuomotor Diffusion [**diffusion**] [**IL**] [[paper](https://arxiv.org/abs/2503.02587)]
+
 - [2025.03] GenForce: Training Tactile Sensors to Learn Force Sensing from Each Other [**touch**] [[paper](https://arxiv.org/abs/2503.01058)]
 
+- [2025.02] AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2502.16420)] [[project](https://graspnet.net/anydexgrasp/)] [[code](https://github.com/graspnet/AnyDexGrasp)]
+
+- [2025.02] CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World [**IL**] [[paper](https://arxiv.org/abs/2502.08449)] [[project](https://aureleopku.github.io/CordViP/)]
+
+- [2025.02] FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning [**IL**] [[paper](https://arxiv.org/abs/2502.17432)] [[project](https://jasonjzliu.com/factr/)]
+
 - [2025.01] From Simple to Complex Skills: The Case of In-Hand Object Reorientation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2501.05439)]
+
+- [2025.01] Learning to Transfer Human Hand Skills for Robot Manipulations [**IL**] [**mocap**] [[paper](https://arxiv.org/abs/2501.04169)] [[project](https://rureadyo.github.io/MocapRobot/)]
 
 - [2024.12] BODex: Scalable and Efficient Robotic Dexterous Grasp Synthesis Using Bilevel Optimization [**optimization**] [[paper](https://arxiv.org/abs/2412.16490)]
 
@@ -347,6 +403,10 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.03] Learning Bimanual Manipulation via Action Chunking and Inter-Arm Coordination with Transformers [**IL**] [[paper](https://arxiv.org/abs/2503.13916)]
 
+- [2025.03] LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language [**LLM**] [[paper](https://arxiv.org/abs/2503.17309)] [[code](https://github.com/Kchu/LLM-MAP)]
+
+- [2025.03] Rethinking Bimanual Robotic Manipulation: Learning with Decoupled Interaction Framework [**IL**] [[paper](https://arxiv.org/abs/2503.09186)]
+
 - [2025.01] YOTO: You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations [**IL**] [[paper](https://arxiv.org/abs/2501.14208)]
 
 - [2024.12] AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation [**RL**] [[paper](https://arxiv.org/abs/2412.06779)] [[project](https://manicm-fast.github.io/)] [[code](https://github.com/TengBoYuu/AnyBimanual)]
@@ -372,7 +432,11 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.11] SIMS: Simulating Human-Scene Interactions with Real World Script Planning [**RL**] [[paper](https://arxiv.org/abs/2411.19921)]
 
+- [2025.03] SceneMI: Motion In-betweening for Modeling Human-Scene Interactions [**diffusion**] [[paper](https://arxiv.org/abs/2503.16289)] [[project](https://inwoohwang.me/SceneMI/)] [[code](https://github.com/woo0818/SceneMI)]
+
 - [2025.02] InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions [**RL**] [[paper](https://arxiv.org/abs/2502.20390)]
+
+- [2025.02] Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs [**RL**] [**mocap**] [[paper](https://arxiv.org/abs/2502.05641)]
 
 - [2024.10] Autonomous Character-Scene Interaction Synthesis from Text Instruction [**mocap**] [[project](https://lingomotions.com/)] [[paper](https://arxiv.org/abs/2410.03187)]
 
