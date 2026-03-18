@@ -213,7 +213,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.11] VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2511.15200)]
 
-- [2025.10] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation [**IL**] [[code](https://github.com/visualmimic/VisualMimic)]
+- [2025.09] VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation [**IL**] [[paper](https://arxiv.org/abs/2509.20322)] [[project](https://visualmimic.github.io/)] [[code](https://github.com/visualmimic/VisualMimic)]
 
 - [2025.10] DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation [**IL**] [[paper](https://arxiv.org/abs/2510.11258)]
 
@@ -243,7 +243,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.02] HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit [**teleop**] [[paper](https://arxiv.org/abs/2502.13013)] [[project](https://homietele.github.io/)] [[code](https://github.com/OpenRobotLab/OpenHomie)]
 
-- [2025.02] HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion [**RL**] [[paper](https://arxiv.org/abs/2502.03206)] [[project](https://hugwbc.github.io/)]
+- [2025.02] A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion [**RL**] [[paper](https://arxiv.org/abs/2502.03206)] [[project](https://hugwbc.github.io/)]
 
 - [2025.02] DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning [**IL**] [[paper](https://arxiv.org/abs/2502.16932)] [[project](https://demo-generation.github.io/)] [[code](https://github.com/TEA-Lab/DemoGen)]
 
@@ -304,7 +304,15 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2026.01] Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2601.02778)]
 
+- [2025.12] World Models for Learning Dexterous Hand-Object Interactions from Human Videos [**world model**] [[paper](https://arxiv.org/abs/2512.13644)] [[project](https://raktimgg.github.io/dexwm/)]
+
+- [2025.10] SaTA: Spatially-anchored Tactile Awareness for Robust Dexterous Manipulation [**touch**] [**IL**] [[paper](https://arxiv.org/abs/2510.14647)]
+
+- [2025.10] DexCanvas: Bridging Human Demonstrations and Robot Learning for Dexterous Manipulation [**Dataset**] [[paper](https://arxiv.org/abs/2510.15786)] [[code](https://github.com/dexrobot/dexcanvas)]
+
 - [2025.09] Dexplore: Scalable Neural Control for Dexterous Manipulation from Reference-Scoped Exploration [**RL**] [[paper](https://arxiv.org/abs/2509.09671)]
+
+- [2025.09] The Role of Touch: Towards Optimal Tactile Sensing Distribution in Anthropomorphic Hands for Dexterous In-Hand Manipulation [**touch**] [**RL**] [[paper](https://arxiv.org/abs/2509.14984)]
 
 - [2025.09] In-Hand Manipulation of Articulated Tools with Dexterous Robot Hands with Sim-to-Real Transfer [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2509.23075)]
 
@@ -312,9 +320,31 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.08] DexReMoE: In-hand Reorientation of General Object via Mixtures of Experts [**RL**] [[paper](https://arxiv.org/abs/2508.01695)]
 
+- [2025.07] DexVLG: Dexterous Vision-Language-Grasp Model at Scale [**VLM**] [**grasping**] [[paper](https://arxiv.org/abs/2507.02747)] [[project](https://jiaweihe.com/dexvlg)] [[code](https://github.com/jiaweihe1996/DexVLG)]
+
+- [2025.06] Scaffolding Dexterous Manipulation with Vision-Language Models [**VLM**] [**RL**] [[paper](https://arxiv.org/abs/2506.19212)]
+
+- [2025.06] ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2506.14317)]
+
+- [2025.05] DexCtrl: Towards Sim-to-Real Dexterity with Adaptive Controller Learning [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2505.00991)]
+
+- [2025.05] Dexterous Contact-Rich Manipulation via the Contact Trust Region [**MPC**] [**contact-rich**] [[paper](https://arxiv.org/abs/2505.02291)]
+
+- [2025.05] EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video [**Dataset**] [[paper](https://arxiv.org/abs/2505.11709)] [[code](https://github.com/apple/ml-egodex)]
+
+- [2025.04] Dexonomy: Synthesizing All Dexterous Grasp Types in a Grasp Taxonomy [**optimization**] [**grasping**] [[paper](https://arxiv.org/abs/2504.18829)] [[project](https://pku-epic.github.io/Dexonomy/)] [[code](https://github.com/JYChen18/Dexonomy)]
+
+- [2025.04] RobustDexGrasp: Robust Dexterous Grasping of General Objects [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2504.05287)] [[project](https://zdchan.github.io/Robust_DexGrasp/)]
+
 - [2025.04] Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning [**RL**] [[paper](https://arxiv.org/abs/2504.21585)]
 
 - [2025.03] DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness [**diffusion**] [[paper](https://arxiv.org/abs/2503.08257)] [[project](https://dexgraspanything.github.io/)] [[code](https://github.com/4DVLab/DexGrasp-Anything)]
+
+- [2025.03] Grasping a Handful: Sequential Multi-Object Dexterous Grasp Generation [**optimization**] [**grasping**] [[paper](https://arxiv.org/abs/2503.22370)]
+
+- [2025.03] RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation [**VLM**] [[paper](https://arxiv.org/abs/2503.01616)] [[project](https://henryhcliu.github.io/robodexvlm/)]
+
+- [2025.03] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [**diffusion**] [**touch**] [[paper](https://arxiv.org/abs/2503.02881)]
 
 - [2025.03] GAGrasp: Geometric Algebra Diffusion for Dexterous Grasping [**diffusion**] [[paper](https://arxiv.org/abs/2503.04123)] [[project](https://gagrasp.github.io/)]
 
@@ -326,7 +356,11 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.03] GenForce: Training Tactile Sensors to Learn Force Sensing from Each Other [**touch**] [[paper](https://arxiv.org/abs/2503.01058)]
 
+- [2025.02] DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping [**VLA**] [**grasping**] [[paper](https://arxiv.org/abs/2502.20900)] [[project](https://dexgraspvla.github.io/)] [[code](https://github.com/Psi-Robot/DexGraspVLA)]
+
 - [2025.02] AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2502.16420)] [[project](https://graspnet.net/anydexgrasp/)] [[code](https://github.com/graspnet/AnyDexGrasp)]
+
+- [2025.02] DexterityGen: Foundation Controller for Unprecedented Dexterity [**RL**] [[paper](https://arxiv.org/abs/2502.04307)]
 
 - [2025.02] CordViP: Correspondence-based Visuomotor Policy for Dexterous Manipulation in Real-World [**IL**] [[paper](https://arxiv.org/abs/2502.08449)] [[project](https://aureleopku.github.io/CordViP/)]
 
@@ -341,6 +375,22 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 - [2024.12] Dexterous Manipulation Based on Prior Dexterous Grasp Pose Knowledge [**RL**] [[paper](https://arxiv.org/abs/2412.15587)]
 
 - [2024.11] Object-Centric Dexterous Manipulation from Human Motion Data [**RL**] [[project](https://cypypccpy.github.io/obj-dex.github.io/)] [[paper](https://arxiv.org/abs/2411.04005)]
+
+- [2024.11] DexH2R: Task-oriented Dexterous Manipulation from Human to Robots [**RL**] [[paper](https://arxiv.org/abs/2411.04428)]
+
+- [2024.10] DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes [**diffusion**] [**grasping**] [[paper](https://arxiv.org/abs/2410.23004)] [[project](https://pku-epic.github.io/DexGraspNet2.0/)] [[code](https://github.com/PKU-EPIC/DexGraspNet2)]
+
+- [2024.10] Cross-Embodiment Dexterous Grasping with Reinforcement Learning [**RL**] [**grasping**] [[paper](https://arxiv.org/abs/2410.02479)] [[code](https://github.com/PKU-RL/CrossDex)]
+
+- [2024.09] DexSim2Real2: Building Explicit World Model for Precise Articulated Object Dexterous Manipulation [**world model**] [**MPC**] [[paper](https://arxiv.org/abs/2409.08750)] [[code](https://github.com/jiangtaoran/DexSim2Real2)]
+
+- [2024.08] Complementarity-Free Multi-Contact Modeling and Optimization for Dexterous Manipulation [**MPC**] [**contact-rich**] [[paper](https://arxiv.org/abs/2408.07855)] [[code](https://github.com/asu-iris/Complementarity-Free-Dexterous-Manipulation)]
+
+- [2024.07] DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation [**GAN**] [**grasping**] [[paper](https://arxiv.org/abs/2407.17348)] [[project](https://david-s-martinez.github.io/DexGANGrasp.io/)] [[code](https://github.com/david-s-martinez/Dex-GAN-Grasp)]
+
+- [2024.03] Dexterous Functional Pre-Grasp Manipulation with Diffusion Policy [**diffusion**] [**RL**] [[paper](https://arxiv.org/abs/2403.12421)] [[project](https://unidexfpm.github.io/)]
+
+- [2024.01] DexTouch: Learning to Seek and Manipulate Objects with Tactile Dexterity [**touch**] [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2401.12496)]
 
 
 <a name="BimanualDexterousMulti-FingeredManipulation" />
@@ -386,7 +436,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 - [2025.05] DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation [**teleop**] [[paper](https://arxiv.org/abs/2505.21864)]
 
-- [2025.03] Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback [**teleop**] [[paper](https://arxiv.org/abs/2503.01543)]
+- [2025.03] Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning [**teleop**] [[paper](https://arxiv.org/abs/2503.01543)]
 
 - [2025.02] DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove [**teleop**] [[paper](https://arxiv.org/abs/2502.07730)]
 
@@ -430,7 +480,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Physically Simulated Humanoid Animations and Digital Human-Object Interaction
 
-- [2025.11] SIMS: Simulating Human-Scene Interactions with Real World Script Planning [**RL**] [[paper](https://arxiv.org/abs/2411.19921)]
+- [2024.11] SIMS: Simulating Stylized Human-Scene Interactions with Retrieval-Augmented Script Generation [**RL**] [[paper](https://arxiv.org/abs/2411.19921)]
 
 - [2025.03] SceneMI: Motion In-betweening for Modeling Human-Scene Interactions [**diffusion**] [[paper](https://arxiv.org/abs/2503.16289)] [[project](https://inwoohwang.me/SceneMI/)] [[code](https://github.com/woo0818/SceneMI)]
 
