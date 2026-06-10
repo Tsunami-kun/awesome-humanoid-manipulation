@@ -39,6 +39,7 @@ _Scope_: This list covers the following topics:
     - [Teleoperation \& Human-to-Robot Retargeting](#teleoperation--human-to-robot-retargeting)
     - [Dual-Arm Manipulation with Other End Effectors](#dual-arm-manipulation-with-other-end-effectors)
     - [Physically Simulated Humanoid Animations and Digital Human-Object Interaction](#physically-simulated-humanoid-animations-and-digital-human-object-interaction)
+  - [Close Reading](#close-reading)
 
 
 <a name="Models" />
@@ -209,6 +210,14 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Humanoid Robot Manipulation
 
+- [2026.06] MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation [**world model**] [[paper](https://arxiv.org/abs/2606.09215)]
+
+- [2026.06] OASIS: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation [**sim2real**] [**IL**] [[paper](https://arxiv.org/abs/2606.08548)] [[project](https://oasis-humanoid.github.io/)]
+
+- [2026.06] Ego-Pi: VLA Fine-Tuning for Ego-Centric Human and Robot Data [**VLA**] [**IL**] [[paper](https://arxiv.org/abs/2606.08107)] [[project](https://egopipaper.github.io/)]
+
+- [2026.05] Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors [**HOI**] [**generative model**] [[paper](https://arxiv.org/abs/2605.22272)]
+
 - [2026.03] HumDex: Humanoid Dexterous Manipulation Made Easy [**teleop**] [[paper](https://arxiv.org/abs/2603.12260)]
 
 - [2026.03] Omni-Manip: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception [**3D perception**] [[paper](https://arxiv.org/abs/2603.05355)]
@@ -296,13 +305,25 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 
 ### Dexterous Hand Manipulation
 
+- [2026.06] DexPIE: Stable Dexterous Policy Improvement from Real-World Experience [**IL**] [**real-world**] [[paper](https://arxiv.org/abs/2606.09615)] [[project](https://siiuuuuuu.github.io/DexPIE)]
+
+- [2026.06] MoDex: A Diffusion Policy for Sequential Multi-Object Dexterous Grasping [**diffusion**] [**grasping**] [[paper](https://arxiv.org/abs/2606.05407)]
+
+- [2026.06] Dexterity-BEV: Aligning 3D World and Actions for Generalizable Robot Policies Learning [**3D perception**] [[paper](https://arxiv.org/abs/2606.02274)]
+
 - [2026.02] DexRepNet++: Learning Dexterous Robotic Manipulation with Geometric and Spatial Hand-Object Representations [**RL**] [[paper](https://arxiv.org/abs/2602.21811)]
 
-- [2026.02] UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation [**diffusion**] [[paper](https://arxiv.org/abs/2602.00915)]
+- [2026.02] SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2602.16863)]
+
+- [2026.02] EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data [**VLA**] [**egocentric data**] [[paper](https://arxiv.org/abs/2602.16710)] [[project](https://research.nvidia.com/labs/gear/egoscale/)]
+
+- [2026.02] Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation [**sim2real**] [[paper](https://arxiv.org/abs/2602.15828)] [[project](https://dex4d.github.io/)]
 
 - [2026.02] DexEvolve: Evolutionary Optimization for Robust and Diverse Dexterous Grasp Synthesis [**optimization**] [[paper](https://arxiv.org/abs/2602.15201)]
 
-- [2026.02] SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2602.16863)]
+- [2026.02] Dexterous Manipulation Policies from RGB Human Videos via 3D Hand-Object Trajectory Reconstruction [**IL**] [**human video**] [[paper](https://arxiv.org/abs/2602.09013)] [[project](https://videomanip.github.io/)]
+
+- [2026.02] UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation [**diffusion**] [[paper](https://arxiv.org/abs/2602.00915)]
 
 - [2026.01] Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation [**RL**] [**sim2real**] [[paper](https://arxiv.org/abs/2601.02778)]
 
@@ -513,3 +534,7 @@ YYYY.MM is the date when paper appears on arxiv.org (if available).
 - [2024.04] HOI-M3: Capture Multiple Humans and Objects Interaction within Contextual Environment [**mocap**] [[project](https://juzezhang.github.io/HOIM3_ProjectPage/)] [[paper](https://arxiv.org/abs/2404.00299)] [[code](https://github.com/Juzezhang/NeuralDome_Toolbox)]
 
 - [2024.03] AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents [**RL**] [[project](https://anyskill.github.io/)] [[paper](https://arxiv.org/abs/2403.12835)] [[code](https://github.com/jiemingcui/anyskill)]
+
+## Close Reading
+
+Close reading notes for key papers will be updated in [/media/humanoid/909f6636-e7b5-4538-ac97-608ffbcde157/awesome-humanoid-manipulation/close_reading](/media/humanoid/909f6636-e7b5-4538-ac97-608ffbcde157/awesome-humanoid-manipulation/close_reading).
